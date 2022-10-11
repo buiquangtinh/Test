@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    text-align: center;
+    background: pink;
+    height: 40px;
+}
+header ul li a{
+    text-decoration: none;
+    color: #000;
+    line-height: 40px;
+}
+header ul li{
+    list-style: none;
+}
+.tuan_anh{
+    text-align: center;
+}
+.tuan_anh .tuan_anh1 h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
